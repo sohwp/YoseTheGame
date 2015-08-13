@@ -10,7 +10,7 @@
     <div>
         <h1>Hello Yose</h1>
         <p>
-            This is a first web page.
+            This is a first web page (ASPX).
         </p>
         <a href="aboutMe.html" id="contact-me-link">Contact me</a>
     </div>
