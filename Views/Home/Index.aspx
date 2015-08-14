@@ -12,7 +12,11 @@
         <p>
             This is a first web page (ASPX).
         </p>
+        <p>
+            <a href="http://wpyose.azurewebsites.net/ping" id="ping-challenge-link">PING challenge</a>
+        </p>
         <a href="aboutMe.html" id="contact-me-link">Contact me</a>
+        
     </div>
 </body>
 </html>
